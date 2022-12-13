@@ -1,4 +1,6 @@
-# App1
+# Jogo - Testando seu Inglês
+
+Um simples jogo para testar o seu inglês em que você precisa acertar as traduções.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.3.
 
